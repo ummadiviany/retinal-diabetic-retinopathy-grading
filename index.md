@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Diabetic Retinopathy Gradiing
+
+Page is under construction.
 
 You can use the [editor on GitHub](https://github.com/ummadiviany/retinal-diabetic-retinopathy-grading/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
