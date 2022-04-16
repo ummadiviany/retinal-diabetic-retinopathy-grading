@@ -16,8 +16,8 @@ Now lets see how DR can be classified into different types. The following table 
 
 |Class|No DR|Mild DR|Moderate DR|Severe DR|Proliferate DR|
 |:-----:|:---:|:-----:|:---------:|:-------:|:------------:| 
-|**Image**|<img src="img/class_images/nodr.png">|<img src="img/class_images/mild.png">|<img src="img/class_images/moderate.png">|<img src="img/class_images/severe.png">|<img src="img/class_images/proliferative.png">|
-|**Description**|cotton wool spots, venous beading, and severe intraretinal microvascular abnormalities (IRMA)| At least one microaneurysm present on retinal exam|Characterized by multiple microaneurysms, dot-and-blot hemorrhages, venous beading, and/or cotton wool spots|cotton wool spots, venous beading, and severe intraretinal microvascular abnormalities (IRMA)|cotton wool spots, venous beading, and severe intraretinal microvascular abnormalities (IRMA)
+**Image**|<img width="224" height="224" src="img/class_images/nodr.png">|<img width="224" height="224" src="img/class_images/mild.png">|<img width="224" height="224" src="img/class_images/moderate.png">|<img width="224" height="224" src="img/class_images/severe.png">|<img width="224" height="224" src="img/class_images/proliferative.png">|
+**Description**|No presence of DR features. Clean Eye| At least one microaneurysm present on retinal exam|Multiple microaneurysms, dot-and-blot hemorrhages, venous beading, and/or cotton wool spots|Cotton wool spots, venous beading, and severe intraretinal microvascular abnormalities (IRMA)|Growth of new blood vessels, Blood vessels bleeding, Retinal detachment
 
 
 ## Objective
