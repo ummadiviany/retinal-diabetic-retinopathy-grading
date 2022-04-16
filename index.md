@@ -15,9 +15,9 @@ Diabetic Retinopathy is a complication of diabeties that effect eye. DR is the m
 Now lets see how DR can be classified into different types. The following table shows the classification of DR.
 
 |Class|No DR|Mild DR|Moderate DR|Severe DR|Proliferate DR|
-|:---:|:---:|:-----:|:---------:|:-------:|:------------:| 
-|**Image**|![](img/class_images/nodr.png)|![](img/class_images/mild.png)|![](img/class_images/moderate.png)|![](img/class_images/severe.png)|![](img/class_images/proliferative.png)|
-|**Description**|None | At least one microaneurysm present on retinal exam|Characterized by multiple microaneurysms, dot-and-blot hemorrhages, venous beading, and/or cotton wool spots|cotton wool spots, venous beading, and severe intraretinal microvascular abnormalities (IRMA)|
+|:-----:|:---:|:-----:|:---------:|:-------:|:------------:| 
+|**Image**|<img src="img/class_images/nodr.png">|<img src="img/class_images/mild.png">|<img src="img/class_images/moderate.png">|<img src="img/class_images/severe.png">|<img src="img/class_images/proliferative.png">|
+|**Description**|cotton wool spots, venous beading, and severe intraretinal microvascular abnormalities (IRMA)| At least one microaneurysm present on retinal exam|Characterized by multiple microaneurysms, dot-and-blot hemorrhages, venous beading, and/or cotton wool spots|cotton wool spots, venous beading, and severe intraretinal microvascular abnormalities (IRMA)|cotton wool spots, venous beading, and severe intraretinal microvascular abnormalities (IRMA)
 
 
 ## Objective
