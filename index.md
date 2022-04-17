@@ -1,5 +1,9 @@
 # Diabetic Retinopathy Grading
 
+    The project report can be found here : 
+
+    The project presention can be found here :
+
 ## Problem
 
 <!-- ![](img/dr_1.jpg) -->
