@@ -1,6 +1,12 @@
 # retinal-diabetic-retinopathy-grading
 This repository is mainted for term project Retinal Diabetoc Retinopathy Grading for Medical Image Analsysis class taught by Prof Nirmalya Ghosh at IIT Kharagpur.
 
+## **This page is under active development**
+
+
+The project report can be found here : [Project Report](Diabetic_Retinopathy_Reccognition___Class_Project_for_Medical_Image_Analysis.pdf)
+
+The project slides can be found here : [Project Slides](Diabetic%20Retinopathy%20Recognition%20&%20Classification.pdf)
 
 ## Problem
 

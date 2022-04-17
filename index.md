@@ -1,8 +1,11 @@
 # Diabetic Retinopathy Grading
 
-    The project report can be found here : 
+## **This page is under active development**
 
-    The project presention can be found here : 
+
+The project report can be found here : [Project Report](Diabetic_Retinopathy_Reccognition___Class_Project_for_Medical_Image_Analysis.pdf)
+
+The project presention can be found here : [Project Slides](Diabetic%20Retinopathy%20Recognition%20&%20Classification.pdf)
 
 ## Problem
 
